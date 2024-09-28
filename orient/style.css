@@ -1,0 +1,95 @@
+.body{
+    background-color:rgb(12, 221, 193);
+}
+.head{
+    color: blueviolet;
+    background-color: burlywood;
+    width: 30%;
+    height: 10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.a{
+    flex:inherit;
+    color:#892be2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 30px;
+    margin: 5px;
+
+    
+}
+.a:hover{
+    color:#892be270;
+    text-shadow: wheat;
+    text-indent: 13px;
+}
+
+/*home page*/
+.div{
+    border: 2%;
+    border-color: aqua;
+    text-align: center;
+    text-decoration: wavy;
+}
+.p{
+    font-family:sans-serif;
+    border: 9px lawngreen solid;
+    margin: 13px;
+    border-color: aquamarine;
+    background: wheat;
+
+}
+footer{
+    border: 2px saddlebrown solid;
+    background: wheat;
+    width: fit-content;
+    font-family:monospace;
+    margin: 5px;
+}
+
+.col-sm-5{
+    background:silver;
+    border: 6px brown solid;
+    margin: 13px;
+    font-family: 'Times New Roman', Times, serif;
+     width: max-content;
+}
+.col-sm-6{
+
+    background: thistle;
+    border: 6px brown solid;
+    margin: 13px;
+    font-family: 'Times New Roman', Times, serif;
+     width: max-content;
+
+}
+h2{
+    font-family: fantasy;
+    text-shadow: 2px green ;
+
+
+}
+
+/*contacts us*/
+button{
+    border: 8px rgb(111, 0, 255) solid;
+    background-color: blue;
+    padding: 12px;
+    margin: 3px;
+    height: fit-content;
+    opacity: 5;
+}
+
+
+  .form-controll{
+    width: 3px;
+    padding: 2px;
+    display:grid;
+  }
+  image{
+    width: 30%;
+    padding: 12rem;
+  }
+  
+  
+  
